@@ -1,5 +1,5 @@
-#las listas son inmutables no se pueden utilizar los metodos(append, insert, remove, etc.) aunque si permite la busqueda de elementos
-class tuplasClases():
+#las tuplas son inmutables no se pueden utilizar los metodos(append, insert, remove, etc.) aunque si permite la busqueda de elementos
+class tuplasClases:
     
     def funciontupla(self):
         mitupla = ("Andres", 1, 1984, 5)

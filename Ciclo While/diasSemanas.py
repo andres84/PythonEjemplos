@@ -1,4 +1,4 @@
-class diasSemanas(object):
+class diasSemanas:
     
     def semana(self):
         

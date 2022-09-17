@@ -4,7 +4,7 @@ mientras el resultado sea True ejecutará todas las lineas indentadas debajo de w
 Éstas líneas incrementan la variable i en 1 (i+=1), 
 lo que eventualmente la llevará a valer 10 lo que hará que abandone el ciclo."""
 
-class imprimeNumeros(object):
+class imprimeNumeros:
     
     def imprime(self):
         

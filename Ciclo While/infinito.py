@@ -2,7 +2,7 @@
 Con esto indicamos que el ciclo siempre se ejecuta pues while nunca obtiene un Falso. (Tudor, 2019) 
 ¿Cómo se sale del ciclo? Cuando i==13 se ejecuta la instrucción break. Eso termina la ejecución de todo el ciclo."""
 
-class infinito(object):
+class infinito:
     
     def infini(self):
         i =0

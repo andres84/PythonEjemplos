@@ -5,7 +5,7 @@ y luego ocurre un continue.
 Es decir, cuando el valor sea 7, termina la iteración actual (ya no ejecuta print(i)) 
 y pasa a la siguiente iteración (i+=1)."""
 
-class continuar(object):
+class continuar:
     
 
     def conti(self):

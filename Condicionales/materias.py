@@ -8,7 +8,7 @@ class materias(object):
         def escogerAsignatura(self):
         
             if opcion in ("ciencias de la computacion", "programacion", "power bi"):
-                print("Inscrito, usted a seleccionado: " + opcion)
+                print("Inscrito, usted a seleccionado: ", opcion)
             else:
                 print("Digite una asignatura correcta!!!")
 
