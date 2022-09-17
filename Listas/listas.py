@@ -1,5 +1,5 @@
 #las listas son mutables
-class listas():
+class listas:
     
     def funcionlista(self):
         milista = ["Andres", "Liliana", "Sara", "Isabella", "Lucia", "Santiago", 1, 2, 3]
