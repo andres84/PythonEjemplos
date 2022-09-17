@@ -1,2 +1,2 @@
 # PythonEjemplos
-#practicas ejemplos caseros para conocer la programacion en python
+#Praxis con python
